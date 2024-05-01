@@ -8,12 +8,15 @@ public class FlashingLight : MonoBehaviour
 
     public float totalSeconds; 
     public float maxIntensity;  
-    public Light myLight;     
+    public Light myLight1;
+    public Light myLight2;
 
     void Update()
     {
-        myLight.intensity += Time.deltaTime * totalSeconds;
-        if (myLight.intensity >= maxIntensity)
-            myLight.intensity -= Time.deltaTime * totalSeconds; 
+        myLight1.intensity += Time.deltaTime * totalSeconds;
+        myLight2.intensity += Time.deltaTime * totalSeconds;
+        if (myLight1.intensity >= maxIntensity && myLight2.intensity >= maxIntensity)
+            myLight1.intensity -= Time.deltaTime * totalSeconds; 
+            myLight2.intensity -= Time.deltaTime * totalSeconds;
         }
     }

@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -313,7 +313,7 @@ MonoBehaviour:
     m_ContainerData: []
     m_OverlaysVisible: 1
   m_SearchFilter:
-    m_NameFilter: quality
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -323,26 +323,26 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/VRTemplateAssets/Audio
+    - Assets/Firetruck/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
-    m_OriginalText: quality
+    m_OriginalText: 
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/VRTemplateAssets/Audio
+  - Assets/Firetruck/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\solkh\Documents\GitHub\VRET_Demo_Github
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 591}
-    m_SelectedIDs: cc2a0100
-    m_LastClickedID: 76492
-    m_ExpandedIDs: 00000000e6270100e8270100ea270100ec270100ee270100f0270100f22701008c2a010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 143}
+    m_SelectedIDs: 28f60100
+    m_LastClickedID: 128552
+    m_ExpandedIDs: 00000000e6270100e8270100ea270100ec270100ee270100f0270100f2270100642a0100982a010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -399,7 +399,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -472,7 +472,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 2064
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -516,27 +516,27 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 06fbffff
+      scrollPos: {x: 0, y: 8090}
+      m_SelectedIDs: 4acb0000
+      m_LastClickedID: 52042
+      m_ExpandedIDs: 06fbffff4acb000098ee0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: SM_Veh_Firetruck_01
+        m_OriginalName: SM_Veh_Firetruck_01
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 52042
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 4}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -821,11 +821,11 @@ MonoBehaviour:
       displayed: 0
       id: Scene View/Particles
       index: 6
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":24.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 24, y: 0}
+      snapOffset: {x: 24, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       layout: 4
       size: {x: 0, y: 0}
@@ -1025,9 +1025,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 97.732666, y: 2.6999998, z: 7.5299892}
+    m_Target: {x: 106.98264, y: -2.1986713, z: 16.477581}
     speed: 2
-    m_Value: {x: 97.732666, y: 2.6999998, z: 7.5299892}
+    m_Value: {x: 106.98264, y: -2.1986713, z: 16.477581}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 2
@@ -1073,13 +1073,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.029064732, y: -0.71158457, z: 0.029466113, w: -0.7014164}
+    m_Target: {x: 0.0463748, y: 0.39048642, z: -0.019684149, w: 0.91926}
     speed: 2
-    m_Value: {x: -0.029063998, y: -0.71156657, z: 0.029465368, w: -0.7013987}
+    m_Value: {x: 0.046373487, y: 0.39047533, z: -0.01968359, w: 0.9192339}
   m_Size:
-    m_Target: 45.46057
+    m_Target: 12.684179
     speed: 2
-    m_Value: 43.502937
+    m_Value: 12.684179
   m_Ortho:
     m_Target: 0
     speed: 2
