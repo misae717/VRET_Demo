@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/VRET_Sample.unity
+- path: Assets/DemoBurningHouseScenario.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
