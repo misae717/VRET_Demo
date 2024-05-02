@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE04FAFD-73B6-A8A7-788B-27DE31F1F2E3}|Assembly-CSharp.csproj|c:\\users\\solkh\\documents\\github\\vret_demo_github\\assets\\firetruck\\scripts\\flashinglight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE04FAFD-73B6-A8A7-788B-27DE31F1F2E3}|Assembly-CSharp.csproj|solutionrelative:assets\\firetruck\\scripts\\flashinglight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\solkh\\documents\\github\\vret_demo_github\\assets\\flashinglight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\flashinglight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE04FAFD-73B6-A8A7-788B-27DE31F1F2E3}|Assembly-CSharp.csproj|C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\assets\\firetruck\\scripts\\firetruckmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE04FAFD-73B6-A8A7-788B-27DE31F1F2E3}|Assembly-CSharp.csproj|solutionrelative:assets\\firetruck\\scripts\\firetruckmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\UniversalAdditionalLightData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\UniversalAdditionalLightData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\FiretruckMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FiretruckMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlashingLight.cs",
+              "DocumentMoniker": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\Firetruck\\Scripts\\FlashingLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Firetruck\\Scripts\\FlashingLight.cs",
+              "ToolTip": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\Firetruck\\Scripts\\FlashingLight.cs",
+              "RelativeToolTip": "Assets\\Firetruck\\Scripts\\FlashingLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:02:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlashingLight.cs",
+              "DocumentMoniker": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\FlashingLight.cs",
+              "RelativeDocumentMoniker": "Assets\\FlashingLight.cs",
+              "ToolTip": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\FlashingLight.cs",
+              "RelativeToolTip": "Assets\\FlashingLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:56:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiretruckMovement.cs",
+              "DocumentMoniker": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\Firetruck\\Scripts\\FiretruckMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Firetruck\\Scripts\\FiretruckMovement.cs",
+              "ToolTip": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\Firetruck\\Scripts\\FiretruckMovement.cs",
+              "RelativeToolTip": "Assets\\Firetruck\\Scripts\\FiretruckMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:54:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversalAdditionalLightData.cs",
+              "DocumentMoniker": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\UniversalAdditionalLightData.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\UniversalAdditionalLightData.cs",
+              "ToolTip": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\UniversalAdditionalLightData.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\UniversalAdditionalLightData.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:01:34.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiretruckMovement.cs",
+              "DocumentMoniker": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\FiretruckMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\FiretruckMovement.cs",
+              "ToolTip": "C:\\Users\\solkh\\Documents\\GitHub\\VRET_Demo_Github\\Assets\\FiretruckMovement.cs",
+              "RelativeToolTip": "Assets\\FiretruckMovement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:05:27.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
